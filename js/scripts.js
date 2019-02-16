@@ -20,7 +20,7 @@ else if (sideA === sideB && sideA !== sideC) {
   alert ("NOT A TRIANGLE");
 }else if (sideA + sideC <=sideB) {
   alert ("NOT A TRIANGLE");
-}else if (sideB + sideC <=sideA) {
+}else if (sideB + sideC <=sideA)  {
   alert ("NOT A TRIANGLE");
 }
 }

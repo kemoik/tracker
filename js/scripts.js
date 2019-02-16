@@ -8,7 +8,7 @@ var sideC=parseInt(inp3);
 if (sideA === sideB && sideB === sideC && sideC === sideA){
   alert("EQUILATERAL TRAIANGLE");
 }
- else if (sideA === sideB && sideA !== sideC) {
+else if (sideA === sideB && sideA !== sideC) {
   alert("ISOSCELES TRIANGLE");
 }else if (sideA === sideC && sideA !== sideB) {
   alert("ISOSCELES TRAIANGLE");

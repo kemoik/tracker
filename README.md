@@ -15,7 +15,6 @@ email= ck.caleb17@gmail.com}
 
 
 BDD
-BEHAVIOUR                            INPUT                OUTPUT
 All sides equal                    SideA=10             Equilateral triangle
                                    SideB=10
                                    sideC=10

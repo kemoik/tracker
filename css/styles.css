@@ -1,0 +1,22 @@
+#most {
+  text-align: center;
+  font-family: 'Metal Mania',  cursive;
+  font-size: 40px;
+}
+#lime {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#line1 {
+  font-family: 'Rum Raisin', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+.line2 {
+text-align: center;
+}
+#column2 {
+  float: right;
+}

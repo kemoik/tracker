@@ -12,6 +12,8 @@ simple to understand}
 ## Support and contact details
 {phone number= +(254)726631865
 email= ck.caleb17@gmail.com}
+
+
 BDD
 BEHAVIOUR                            INPUT                OUTPUT
 All sides equal                    SideA=10             Equilateral triangle

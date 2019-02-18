@@ -22,7 +22,6 @@ BDD
 | None of the sides is equal                | SideA=10,SideB=8,SideC=6  | Scalene Triangle     |
 | Two sides are greater than the third side | SideA=8,sideB=6,SideC=3   | Scalene Triangle     |
 | Two sides less than the third side        | SideA=4,sideB=3,SideC=9   | Not a triangle       |
-### License
 MIT License
 
 Copyright (c) [year] [fullname]

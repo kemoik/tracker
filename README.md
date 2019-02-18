@@ -24,7 +24,7 @@ BDD
 | Two sides less than the third side        | SideA=4,sideB=3,SideC=9   | Not a triangle       |
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [year] [Caleb Kemoi]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

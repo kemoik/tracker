@@ -1,6 +1,6 @@
-# {TRIANGLE TRACKER}
-#### {The program is set to to function that the user inputs the values of the triangle and the program will return using an alert function whether the triangle is equilateral,scalene,isosceles or not a triangle at all}, {Friday 15th 2019}
-#### By **{Caleb Kemoi}**
+# TRIANGLE TRACKER
+#### The program is set to to function that the user inputs the values of the triangle and the program will return using an alert function whether the triangle is equilateral,scalene,isosceles or not a triangle at all, Friday 15th 2019
+#### By **Caleb Kemoi**
 ## Easy and simple to navigate ,input the values and once the user is done with the entry the user can clear out the entrys using the reset button
 ## Setup/Installation Requirements
 the user inputs three values
@@ -15,25 +15,13 @@ email= ck.caleb17@gmail.com}
 
 
 BDD
-All sides equal                    SideA=10             Equilateral triangle
-                                   SideB=10
-                                   sideC=10
-                        
-Two sides are equal                SideA=10             Isosceles triangle                
-                                   sideB=10
-                                   sideC=10
-                        
-None of the sides is equal         sideA=10           Scalene Triangle
-                                   sideB=8
-                                   sideC=6
-                                   
-Two sides greater than 3rd side     sideA=8            Scalene Triangle
-                                    sideB=6
-                                    sideC=3
-                                    
- Two sides less than 3rd side       sideA=4            Not a triangle
-                                    sideB=3
-                                    SideC=9
+| BEHAVIOUR                                 | INPUT                     | OUTPUT               |
+|-------------------------------------------|---------------------------|----------------------|
+| All sides are equal                       | SideA=sideB=SideC         | Equilateral Triangle |
+| Two sides are equal                       | sideA=10,SideB=10,SideC=8 | Isocseles triangle   |
+| None of the sides is equal                | SideA=10,SideB=8,SideC=6  | Scalene Triangle     |
+| Two sides are greater than the third side | SideA=8,sideB=6,SideC=3   | Scalene Triangle     |
+| Two sides less than the third side        | SideA=4,sideB=3,SideC=9   | Not a triangle       |
 ### License
 MIT License
 

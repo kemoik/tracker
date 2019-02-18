@@ -14,7 +14,9 @@ simple to understand}
 email= ck.caleb17@gmail.com}
 
 
-BDD
+## BDD
+
+
 | BEHAVIOUR                                 | INPUT                     | OUTPUT               |
 |-------------------------------------------|---------------------------|----------------------|
 | All sides are equal                       | SideA=sideB=SideC         | Equilateral Triangle |

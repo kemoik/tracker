@@ -2,16 +2,16 @@
 #### The program is set to to function that the user inputs the values of the triangle and the program will return using an alert function whether the triangle is equilateral,scalene,isosceles or not a triangle at all, Friday 15th 2019
 #### By **Caleb Kemoi**
 ## Easy and simple to navigate ,input the values and once the user is done with the entry the user can clear out the entrys using the reset button
-## Setup/Installation Requirements
+## Installation Requirements
 the user inputs three values
 the program returns the output
 whether equilateral,scalene,isosceles,or not a triangle at all
-simple to understand}
+simple to understand
 ## Technologies Used
-{The program was written using HTML,CSS and Javascript }
+The program was written using HTML,CSS and Javascript 
 ## Support and contact details
-{phone number= +(254)726631865
-email= ck.caleb17@gmail.com}
+Phone number= +(254)726631865
+email= ck.caleb17@gmail.com
 
 
 ## BDD
